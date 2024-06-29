@@ -1,0 +1,9 @@
+pandas
+datasets
+ipykernel
+ipywidgets
+matplotlib
+plotly
+nbformat
+zstandard
+kaleido
