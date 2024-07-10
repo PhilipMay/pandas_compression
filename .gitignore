@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # own settings
-data/data.pkl.gz
+data/data*
